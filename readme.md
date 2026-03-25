@@ -1,7 +1,8 @@
-# Git and GitHub Test Repo - Feature Branch Added ✅
+# Welcome to the Git Tutorial ✅
 
 ## Feature Branch Info
 - **Current Branch**: `feature-branch` (visible via `git branch`)
+- **Current Branch**: `dev-vijay` (visible via `git branch`)
 - Added for testing Git workflows.
 
 ## Git Commands to View Branches
